@@ -79,7 +79,7 @@ MCA Graduate | Aspiring Data Analyst
 
 Interested in transforming data into meaningful insights using Python, SQL, Excel, and Power BI.
 
-[LinkedIn](YOUR_LINKEDIN_URL) | [GitHub](YOUR_GITHUB_URL)
+[LinkedIn](https://www.linkedin.com/in/utsav-soni-b06621250/) | [GitHub][(https://github.com/UTSAVSONI99)
 
 ---
 
